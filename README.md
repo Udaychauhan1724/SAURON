@@ -7,4 +7,4 @@ This project uses ultrasonic sensors as well as cameras (using YOLO algorithm) t
 
 Our goal: to overcome them while ensuring seamless integration with existing systems.
 
-Feel free to contact me for further information and personal experience with the project.
+Feel free to contact me for any further information or personal experience with the project.
